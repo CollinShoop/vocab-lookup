@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 @Slf4j
-public class main {
+public class MainInteractive {
 
     public static void main(String[] args) throws IOException {
         String path;
