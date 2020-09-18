@@ -8,7 +8,7 @@ import java.io.IOException;
 public class MainManual {
 
     public static void main(String[] args) throws IOException {
-        Loader.load("C:\\dev\\files\\def_test.txt", true);
+        Loader.load("example\\gre_500_raw.txt", false);
     }
 
 

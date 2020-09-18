@@ -1,0 +1,999 @@
+abscond	depart secretly and hide
+
+adversity	a state of misfortune or affliction
+
+aggravate	make worse
+
+arduous	difficult to accomplish
+
+belie	to contradict, to give a false impression
+
+bombast	pompous or pretentious talk or writing
+
+castigation	punishment; severe criticism or disapproval
+
+censure	harsh criticism or disapproval
+
+coercive	serving or intended to compel by force or authority
+
+condemn	express strong disapproval of
+
+conspire	engage in plotting or enter into a conspiracy, swear together
+
+covert	secret or hidden
+
+cower	To crouch or shrink away from in fear or shame
+
+denigrate	to attack the reputation of; to speak ill of
+
+denounce	to accuse or condemn or openly or formally or brand as disgraceful
+
+derision	the act of deriding or treating with contempt
+
+diatribe	a bitter and prolonged verbal attack
+
+discomfit	cause to lose one's composure
+
+disingenuous	not straightforward; crafty
+
+dissemble	hide under a false appearance
+
+exacerbate	make worse
+
+fraud	something intended to deceive
+
+furtive	marked by quiet and caution and secrecy
+
+impudent	marked by casual disrespect
+
+inopportune	coming at a bad time; not appropriate
+
+irascible	quickly aroused to anger
+
+malevolent	wishing or appearing to wish evil to others
+
+martial	suggesting war or military life
+
+misanthrope	someone who dislikes people in general
+
+morose	showing a brooding ill humor
+
+obsequious	attempting to win favor from influential people by flattery
+
+obstinate	persist stubbornly
+
+onerous	troubling; burdensome
+
+pedantic	marked by a narrow focus on or display of learning especially its trivial aspects
+
+perjury	criminal offense of making false statements under oath
+
+recalcitrant	stubbornly disobedient, resisting authority
+
+secrete	generate and separate from cells or bodily fluids
+
+spurious	plausible but false
+
+tirade	a long, angry speech, usually very critical
+
+vexation	something or someone that causes anxiety
+
+amalgamate	to bring or combine together or with something else
+
+assuage	to make easier or milder, relieve; to quiet, calm; to put an end to, appease, satisfy, quench
+
+bolster	support and strengthen
+
+burgeon	grow and flourish
+
+buttress	(v.) to support, prop up, strengthen; (n.) a supporting structure
+
+capricious	impulsive and unpredictable
+
+catalyst	something that causes an important event to happen
+
+caustic	harsh or corrosive in tone
+
+centrifuge	an apparatus that uses centrifugal force to separate particles from a suspension
+
+converge	move or draw together at a certain location
+
+conversion	the act of changing from one use or function or purpose to another
+
+corrosion	a state of deterioration in metals caused by oxidation or chemical action
+
+decibel	unit of measurement for the loudness of sounds
+
+distill	remove impurities from, increase the concentration of, and separate through the process of distillation
+
+divest	reduce or dispose of
+
+enervate	weaken mentally or morally
+
+ephemeral	enduring a very short time
+
+eradicate	destroy completely, as if down to the roots
+
+expel	force to leave or move out
+
+extend	span an interval of distance, space or time
+
+facilitate	make easier
+
+incubation	maintaining something at the most favorable temperature for its development
+
+intransigent	not capable of being swayed or diverted from a course
+
+inundate	fill or cover completely, usually with water
+
+lackluster	lacking brilliance or vitality
+
+lethargic	deficient in alertness or activity
+
+luminous	softly bright or radiant
+
+obviate	prevent the occurrence of
+
+pervasive	spreading throughout
+
+placate	to appease, soothe, pacify
+
+plod	walk heavily and firmly, as when weary, or through mud
+
+plummet	drop sharply
+
+precipitate	bring about abruptly
+
+propagate	transmit or cause to broaden or spread
+
+prune	weed out unwanted or unnecessary things
+
+rarefy	to make or become thin, less dense; to refine
+
+rectify	make right or correct
+
+retard	cause to move more slowly or operate at a slower rate
+
+saturate	infuse or fill completely
+
+sever	cut off from a whole
+
+tentative	under terms not final or fully worked out or agreed upon
+
+vigor	active strength of body or mind
+
+viscous	having a gelatinous or gluey quality, lacking in easy movement or fluidity
+
+vitality	an energetic style
+
+volatile	liable to lead to sudden change or violence
+
+waver	the act of pausing uncertainly
+
+aberrant	markedly different from an accepted norm
+
+ambiguous	having more than one possible meaning
+
+anomalous	deviating from the general or common order or type
+
+anomaly	deviation from the normal or common order or form or rule
+
+archaic	so extremely old as seeming to belong to an earlier period
+
+commensurate	corresponding in size or degree or extent
+
+conspicuous	obvious to the eye or mind
+
+derivative	unoriginal; derived from another source
+
+deviance	a state or condition markedly different from the norm
+
+deviation	departure or wandering away from the accepted standard
+
+discrete	constituting a separate entity or part
+
+diffuse	spread out
+
+digress	wander from a direct or straight course
+
+discordant	not in agreement or harmony
+
+disinterest	lack of bias or involvement; impartiality; (ed) uninvolved; free from self-interest
+
+dispersed	distributed or spread over a considerable extent
+
+eccentric	conspicuously or grossly unconventional or unusual
+
+emulate	strive to equal or match, especially by imitating
+
+enigmatic	mysterious, inexplicable, puzzling
+
+eclectic	made up of a variety of sources or styles
+
+flamboyant	elaborately or excessively ornamented
+
+heretical	characterized by departure from accepted beliefs or standards
+
+innocuous	unlikely to harm or disturb anyone
+
+idiosyncracy	an odd, unusual, or peculiar behavior
+
+imperturbable	not easily perturbed or excited or upset
+
+marginal	of something or someone close to a lower limit or lower class
+
+maverick	independent in behavior or thought
+
+mitigate	lessen or to try to lessen the seriousness or extent of
+
+monotonous	tediously repetitious or lacking in variety
+
+ostracism	the act of excluding someone from society by general consent
+
+perennial	lasting an indefinitely long time
+
+recluse	one who lives in solitude
+
+sporadic	recurring in scattered and irregular or unpredictable instances
+
+superfluous	more than is needed, desired, or required
+
+tangential	of superficial relevance if any
+
+temper	make more temperate, acceptable, or suitable by adding something else
+
+temperate	not extreme
+
+admonish	to caution or advise against something; to scold mildly; to remind of a duty
+
+advocate	speak, plead, or argue in favour of
+
+anthology	a collection of selected literary passages
+
+apprise	make aware of
+
+approbation	official recognition or approval
+
+articulate	expressing yourself easily or characterized by clear expressive language
+
+aver	to declare or affirm solemnly and formally as true
+
+brevity	the attribute of being brief or fleeting
+
+candor	the quality of being honest and straightforward in attitude and speech
+
+circumspect	heedful of potential consequences
+
+cogent	powerfully persuasive
+
+corroborate	establish or strengthen as with new evidence or facts
+
+disabuse	to free from deception or error, set right in ideas or thinking
+
+discourse	extended verbal expression in speech or writing
+
+discretion	the trait of judging wisely and objectively
+
+eloquent	expressing yourself readily, clearly, effectively
+
+enumerate	determine the number or amount of
+
+equivocate	be deliberately ambiguous or unclear in order to mislead or withhold information
+
+eulogy	a formal expression of praise
+
+euphemism	an inoffensive expression that is substituted for one that is considered offensive
+
+exculpate	pronounce not guilty of criminal charges
+
+extemporaneous	with little or no preparation or forethought
+
+fawn	try to gain favor by cringing or flattering
+
+glib	marked by lack of intellectual depth
+
+goad	to drive or urge on
+
+inquisitive	showing curiosity
+
+lucid	easily understood; clear
+
+mollify	make more temperate, acceptable, or suitable by adding something else
+
+parody	humorous or satirical mimicry
+
+pertinent	having precise or logical relevance to the matter at hand
+
+platitude	a boring or unoriginal remark
+
+rescind	to repeal, cancel
+
+rhetoric	using language effectively to please or persuade
+
+sanction	a mechanism of social control for enforcing a society's standards
+
+sanction	give authority or permission to
+
+soliloquy	a (usually long) dramatic speech intended to give the illusion of unspoken reflections
+
+stanza	a fixed number of lines of verse forming a unit of a poem
+
+subpoena	a writ issued by court authority to compel the attendance of a witness at a judicial proceeding
+
+subtle	be difficult to detect or grasp by the mind
+
+succinct	brief and to the point
+
+tacit	indicated by necessary connotation though not expressed directly
+
+tact	consideration in dealing with others and avoiding giving offence
+
+taciturn	habitually silent or quiet, inclined to talk very little
+
+tout	advertize in strongly positive terms
+
+veracity	adherence to the truth; truthfulness
+
+anesthetic	a drug that causes temporary loss of bodily sensations
+
+antipathy	a feeling of intense dislike
+
+arbitrary	based on or subject to individual discretion or preference or sometimes impulse or caprice
+
+aversion	a feeling of intense dislike
+
+bent	a relatively permanent inclination to react in a particular way
+
+compliant	easily influenced or imposed on
+
+condone	excuse, overlook, or make allowances for
+
+convention	something regarded as a normative example
+
+defer	submit or yield to another's wish or opinion
+
+dogma	a doctrine or code of beliefs accepted as authoritative
+
+equivocal	open to two or more interpretations
+
+extraneous	not essential
+
+fortuitous	occurring by happy chance
+
+frugality	prudence in avoiding waste
+
+illusory	misleading, deceptive; lacking in or not based on reality
+
+indifferent	showing no care or concern in attitude or action
+
+insipid	lacking interest or significance
+
+inured	made tough by habitual exposure
+
+miserly	stingy; mean
+
+nonplused	filled with bewilderment
+
+penchant	a strong liking
+
+penury	a state of extreme poverty or destitution
+
+plethora	overabundance; excess
+
+preempt	to supersede; appropiate for oneself
+
+presumption	an assumption that is taken for granted
+
+prodigal	recklessly wasteful
+
+prone	having a tendency (to)
+
+propensity	a natural inclination
+
+qualm	uneasiness about the fitness of an action
+
+reconciliation	the act of agreement after a quarrel, the resolution of a dispute
+
+repudiate	reject as untrue, unfounded, or unjust
+
+restitution	the act of restoring something to its original state
+
+savor	derive or receive pleasure from
+
+serenity	the absence of mental stress or anxiety
+
+solvent	capable of meeting financial obligations
+
+stint	supply sparingly and with restricted quantities
+
+tranquil	free from disturbance
+
+trivial	(informal terms) small and of little importance
+
+audacious	disposed to venture or take risks
+
+authoritarian	likened to a dictator in severity
+
+beneficent	doing or producing good
+
+burnish	to polish
+
+connoisseur	an expert able to appreciate a field
+
+consternation	dismay, confusion
+
+cultured	marked by refinement in taste and manners
+
+cunning	marked by skill in deception
+
+deference	a disposition or tendency to yield to the will of others
+
+facetious	cleverly amusing in tone
+
+fidelity	the quality of being faithful
+
+implacable	impossible to placate
+
+ingenuity	the power of creative imagination
+
+intemperance	consumption of alcoholic drinks
+
+intrepid	invulnerable to fear or intimidation
+
+membrane	a thin pliable sheet of material
+
+meticulous	marked by extreme care in treatment of details
+
+plasticity	the property of being physically malleable
+
+porous	full of pores or vessels or holes
+
+pragmatic	concerned with practical matters
+
+presumptuous	excessively forward
+
+pristine	immaculately clean and unused
+
+prudent	wise, careful, cautious
+
+slight	pay no attention to, disrespect
+
+somber	grave or even gloomy in character
+
+unfettered	not bound by shackles and chains
+
+warranted	justified; authorized
+
+abash	cause to be embarrassed
+
+abate	become less in amount or intensity
+
+abject	most unfortunate or miserable
+
+abrasive	sharply disagreeable
+
+abstain	to choose not to do something
+
+abysmal	very great
+
+adherent	someone who believes and helps to spread the doctrine of another
+
+adulterate	corrupt, debase, or make impure by adding a foreign or inferior substance
+
+aesthetic	concerning or characterized by an appreciation of beauty or good taste
+
+affable	courteous and pleasant, sociable, easy to speak to
+
+affectation	unnatural or artificial behavior, usually intended to impress
+
+aghast	horrified
+
+alchemy	a pseudoscientific forerunner of chemistry in medieval times
+
+allege	to assert without proof or confirmation
+
+allusion	passing reference or indirect mention
+
+aggregate	gather in a mass, sum, or whole
+
+ambience	the atmosphere of an environment
+
+ameliorate	to make better
+
+amenable	disposed or willing to comply
+
+amorphous	having no definite form or distinct shape
+
+amortize	to diminish by installment payments
+
+ancillary	subordinate or supplementary
+
+animosity	a feeling of ill will arousing active hostility
+
+antecedent	a preceding occurrence or cause or event
+
+antithesis	exact opposite
+
+amiable	diffusing warmth and friendliness
+
+arcane	requiring secret or mysterious knowledge
+
+archetype	an original model on which something is patterned
+
+arrest	cause to stop
+
+assimilate	become similar to one's environment
+
+vigilant	carefully observant or attentive
+
+vilify	to malign, to defame, to utter abusive statements against
+
+voracious	excessively greedy and grasping
+
+waffle	pause or hold back in uncertainty or unwillingness
+
+waft	be driven or carried along, as by the air
+
+wane	decrease in phase
+
+zealous	marked by active interest and enthusiasm
+
+satire	witty language used to convey insults or scorn
+
+sedative	tending to soothe or tranquilize
+
+shard	a fragment
+
+singular	unusual or striking
+
+sordid	unethical or dishonest
+
+sparing	avoiding waste
+
+sparse	meager, scant; scattered
+
+spendthrift	someone who spends money prodigally
+
+squalid	foul and run-down and repulsive
+
+static	not active or moving
+
+subliminal	below the threshold of conscious perception
+
+supplant	take the place or move into the position of
+
+sundry	various; miscellaneous
+
+surreptitious	conducted with or marked by hidden aims or methods
+
+tenuous	having little substance or significance
+
+terse	brief and to the point
+
+unremitting	uninterrupted in time and indefinitely long continuing
+
+tender	offer or present for acceptance
+
+placebo	something which has a positive mental effect, but no physical effect
+
+precarious	not secure
+
+refute	prove to be false or incorrect
+
+raucous	unpleasantly loud and harsh
+
+queue	form a queue, form a line, stand in line
+
+query	pose a question
+
+partisan	adhering or confined to a particular sect or denomination or party
+
+pedagogy	the activities of educating or instructing or teaching
+
+novel	new; original
+
+peripheral	on or near an edge or constituting an outer boundary
+
+paradox	a self-contradiction
+
+personable	pleasing in appearance or personality, attractive
+
+inherent	existing as an essential constituent or characteristic
+
+intimate	imply as a possibility
+
+insular	narrowly restricted in outlook or scope
+
+inept	generally incompetent and ineffectual
+
+inert	slow and apathetic
+
+contentious	involving or likely to cause controversy
+
+contiguous	very close or connected in space or time
+
+copious	large in number or quantity (especially of discourse)
+
+epitome	a standard or typical example
+
+engender	to cause, to produce, to create
+
+empirical	derived from experiment and observation rather than theory
+
+espouse	take up the cause, ideology, practice, method, of someone and use it as one's own
+
+estimable	deserving of respect or high regard
+
+fallacy	a misconception resulting from incorrect reasoning
+
+gratitude	a feeling of thankfulness and appreciation
+
+cardinal	serving as an essential component
+
+din	a loud harsh or strident noise
+
+belabor	to work on excessively; to thrash soundly
+
+bellicose	having or showing a ready disposition to fight
+
+augment	enlarge or increase
+
+austere	of a stern or strict bearing or demeanor
+
+imminent	about to happen
+
+avow	to declare or affirm solemnly and formally as true
+
+hegemony	domination over others
+
+hyperbole	extravagant exaggeration
+
+boisterous	violently agitated and turbulent
+
+color	modify or bias
+
+chauvinist	a person with a prejudiced belief in the superiority of his or her own kind
+
+cognizant	aware; having knowledge of something
+
+condolence	an expression of sympathy with another's grief
+
+misconstrue	to interpret wrongly, mistake the meaning of
+
+conciliatory	appeasing; soothing; showing willingness to reconcile
+
+dilapidated	in deplorable condition
+
+discrepancy	a difference between conflicting facts or claims or opinions
+
+disparage	express a negative opinion of
+
+disparate	fundamentally different or distinct in quality or kind
+
+detraction	the act of discrediting or detracting from someone's reputation (especially by slander)
+
+divulge	make known to the public information that was previously known only to a few people or that was meant to be kept a secret
+
+manifest	reveal its presence or make an appearance
+
+resolute	characterized by quickness and firmness
+
+respite	a pause from doing something (as work)
+
+resurrect	restore from a depressed, inactive, or unused state
+
+reticent	temperamentally disinclined to talk, reluctant to draw attention to yourself
+
+reverent	feeling or showing profound respect or veneration
+
+rubric	category name
+
+rue	sadness associated with some wrong done or some disappointment
+
+salient	prominent; of notable significance
+
+salutary	tending to promote physical well-being
+
+sap	deplete
+
+tautology	useless repetition
+
+tenacity	persistent determination
+
+torque	a twisting force
+
+travesty	a comedy characterized by broad satire and improbable situations
+
+trepidation	a feeling of alarm or dread
+
+vacillate	be undecided about something
+
+veritable	actual, true, real
+
+precursor	an indication of the approach of something or someone
+
+petulant	easily irritated or annoyed
+
+peruse	examine or consider with attention and in detail
+
+paradigm	a standard or typical example, the generally accepted perspective of a particular discipline at a given time
+
+provincial	lacking sophistication, narrow-minded
+
+profuse	produced or growing in extreme abundance
+
+qualify	make more specific
+
+credulous	gullible
+
+cursory	hasty and without attention to detail
+
+daunt	to overcome with fear, intimidate; to dishearten, discourage
+
+debacle	A complete failure; a total collapse
+
+culpable	deserving blame or censure as being wrong or evil or injurious
+
+curmudgeon	a crusty irascible cantankerous old person full of stubborn ideas
+
+garner	acquire or deserve by one's efforts or actions
+
+astute	marked by practical hardheaded intelligence
+
+beleaguer	annoy persistently
+
+benign	pleasant and beneficial in nature or influence
+
+bereave	to make desolate with loneliness and grief.
+
+broach	bring up a topic for discussion
+
+coalesce	fuse or cause to grow together
+
+complaisance	a disposition or tendency to yield to the will of others
+
+contrite	feeling regret for a fault or offence
+
+covet	wish, long, or crave for (something, especially the property of another person)
+
+damp	lessen in force or effect
+
+dearth	an insufficient quantity or number
+
+debased	ruined in character or quality
+
+debauchery	corruption; self-indulgence
+
+deleterious	harmful, injurious
+
+dissolution	separation into component parts, the termination of a relationship
+
+dynamo	generator for producing electricity; energetic person
+
+elucidate	make free from confusion or ambiguity
+
+episodic	occurring or appearing at usually irregular intervals
+
+opaque	not clearly understood or expressed
+
+malleable	easily influenced
+
+obtuse	slow to learn or understand
+
+exonerate	pronounce not guilty of criminal charges
+
+fervent	characterized by intense emotion
+
+filibuster	a tactic for delaying or obstructing legislation by making long speeches
+
+flag	become less intense
+
+odious	unequivocally detestable
+
+ominous	threatening or foreshadowing evil or tragic developments
+
+remuneration	the act of paying for goods or services or to recompense for losses
+
+relegate	assign to a lower position
+
+remedial	tending or intended to rectify or improve
+
+renaissance	the revival of learning and culture
+
+renege	to fail to honor a commitment; to go back on a promise
+
+reconnaissance	exploration to gain knowledge or information
+
+improbable	not likely to be true or to occur or to have occurred
+
+incipient	only partly in existence
+
+indefatigable	showing sustained enthusiastic action with unflagging vitality
+
+indignation	a feeling of righteous anger
+
+impassive	having or revealing little emotion or sensibility
+
+impenetrable	impossible to understand
+
+impediment	any structure that makes progress difficult
+
+introspection	the contemplation of your own thoughts and desires and conduct
+
+gratis	without payment
+
+makeshift	something contrived to meet an urgent need or emergency; done or made using whatever is available
+
+nominal	being such in name only
+
+obdurate	showing unfeeling resistance to tender feelings
+
+milk	exploit as much as possible
+
+metamorphose	change in outward structure or looks
+
+multifaceted	having many aspects
+
+incorrigible	incapable of being reformed or improved
+
+incumbent	the official who holds an office; lying or leaning on something else
+
+ethereal	characterized by lightness and insubstantiality
+
+evanescent	vanishing, soon passing away; light and airy
+
+exemplar	something to be imitated
+
+flip	marked by casual disrespect
+
+flout	treat with contemptuous disregard
+
+forbearance	a delay in enforcing rights or claims or privileges
+
+forestall	keep from happening or arising
+
+forswear	formally reject or disavow a formerly held belief, usually under pressure
+
+founder	stumble and nearly fall, fail utterly
+
+genial	diffusing warmth and friendliness
+
+idolatrous	blindly or excessively devoted or adoring
+
+impetuous	characterized by undue haste and lack of thought or deliberation
+
+impunity	exemption from punishment or loss
+
+indolent	disinclined to work or exertion
+
+inerrancy	making no mistakes or errors
+
+itinerant	traveling from place to place to work
+
+itinerate	travel from place to place, as for work
+
+judicious	marked by the exercise of good judgment or common sense in practical matters
+
+lament	regret strongly
+
+latent	potentially existing but not presently evident or realized
+
+magnate	a very wealthy or powerful businessman
+
+misappropriate	to misuse
+
+oblique	indirect in departing from the accepted or proper way
+
+ornery	having a difficult and contrary disposition
+
+ostentatious	of a display that is tawdry or vulgar
+
+patent	clearly apparent or obvious to the mind or senses
+
+pine	have a desire for something or someone who is not present
+
+pious	devoutly religious
+
+poignant	deeply affecting, touching; keen or sharp in taste or smell
+
+prime	first in rank, excellence, quality, importance, or time
+
+proclivity	a natural inclination
+
+proliferate	cause to grow or increase rapidly
+
+quintessential	representing the perfect example of a class or quality
+
+remonstrate	argue in protest or opposition
+
+reproach	a mild rebuke or criticism
+
+demure	affectedly modest or shy especially in a playful or provocative way
+
+pompous	overly self-important in speech and manner; excessively stately or ceremonious
+
+decimate	kill in large numbers
+
+cavalier	carefree, happy; with lordly disdain
+
+viable	capable of life or normal growth and development
+
+myriad	a large indefinite number
+
+forte	an asset of special worth or utility
+
+weather	face or endure with courage
+
+discreet	marked by prudence or modesty and wise self-restraint
+
+complement	something added to complete or make perfect
+
+flounder	behave awkwardly
+
+penultimate	next to the last
+
+bedlam	a state of extreme confusion and disorder
+
+tantalize	to tease, torment by teasing
+
+whimsical	determined by chance or impulse or whim rather than by necessity or reason
+
+slothful	disinclined to work or exertion
+
+diabolic	extremely evil or cruel
+
+indomitable	impossible to subdue
+
+fancy	have a particular liking or desire for
+
+avid	marked by active interest and enthusiasm
+
+salve	anything that remedies or heals or soothes
+
+buff	polish and make shiny
+
+deride	treat or speak of with contempt
+
+synergy	the working together of two things (muscles or drugs for example) to produce an effect greater than the sum of their individual effects
+
+pursuant	in conformance to or agreement with
+
+dichotomy	a division into two parts
+
+cynical	believing the worst of human nature and motives
+
+irony	incongruity between what might be expected and what actually occurs
+
+distraught	deeply agitated especially from emotion
+
+relish	derive or receive pleasure from
+
+hankering	a yearning for something or to do something
+
+ardent	characterized by intense emotion
+
+amorous	inclined toward or displaying love
+
+belligerent	given to fighting, warlike; combative, aggressive; one at war, one engaged in war
+
+schism	division of a group into opposing factions
+
+staunch	firm and dependable especially in loyalty
+
+contemptuous	feeling hatred; scornful
+
+flush	in the same plane
+
+androgynous	having both male and female characteristics
+
+deign	do something that one considers to be below one's dignity
+
+anarchy	a state of lawlessness and disorder (usually resulting from a failure of government)
+
+miscreant	a person without moral scruples
+
+acquiesce	to agree or express agreement
+
+acrid	harsh in taste or odor; sharp in manner or temper
+
+ardor	feelings of great warmth and intensity
