@@ -1,6 +1,6 @@
 # Vocab Lookup
 
-Simple vocab utility I made for taking in Quizlet word lists and expanding the cards using information from public sources like Websters dictionary. 
+Tool for taking an exported Quizlet vocab cards and expanding the definition using information from a publicly available source like Websters dictionary. 
 
 ## Basic Process
 
