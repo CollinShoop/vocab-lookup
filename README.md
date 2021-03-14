@@ -6,7 +6,7 @@ Simple vocab utility I made for taking in Quizlet word lists and expanding the c
 
 1. Download word set from Quizlet, or create one yourself. Export with tab separator and `\n\n` between words. 
 2. Run either `MainInteractive` or `MainManual` with your file
-3. For `MainInteractive` a new file is created. The file is modified in-place for `MainManual`
+3. For `MainInteractive` the will be found in a new file. for `MainManual` the input file is modified in-place. 
 
 For each word
 
