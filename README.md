@@ -10,9 +10,9 @@ Tool for taking an exported Quizlet vocab cards and expanding the definition usi
 
 For each word
 
-1. Looks up word with Websters dictionary or whatever is selected (right now just Websters). 
-2. Parses info such as example usage and pronunciation
-3. Export vocab to file with this new info included. 
+1. Looks up word with Websters dictionary (can be extended via interface)
+2. Scrapes HTML for specific data such as example usage and pronunciation
+3. Export vocab and metadata into a format that can be re-imported into Quizlet to create a richer card definition. 
 
 ## Example
 
@@ -22,4 +22,4 @@ Downloaded to `example/gre_500_raw.txt`
 
 See results after running in `example/gre_500_raw.txt.completed`
 
-Then import back into Quizlet. 
+Then import back into Quizlet
